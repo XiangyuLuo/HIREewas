@@ -40,7 +40,7 @@ We believe that, by helping biology researchers understand in which cell types t
 
 ## Installation
 ```
-devtools:install_github("XiangyuLuo/HIREewas")
+devtools::install_github("XiangyuLuo/HIREewas")
 ```
 
 ## Instructions
